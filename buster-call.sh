@@ -1,0 +1,5 @@
+#!/bin/bash
+
+IS_EMERGENCY=0
+REASON=" <- INSERT REASON HERE -> "
+
